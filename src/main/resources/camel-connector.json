@@ -1,0 +1,19 @@
+{
+  "baseScheme": "in.naveen.webapp",
+  "baseGroupId": "webapp",
+  "baseArtifactId": "webapp-project",
+  "baseVersion": "2.25.4",
+  "name": "naveen",
+  "scheme": "maven",
+  "javaType": "in.naveen.webapp.naveenComponent",
+  "groupId": "in.naveen.webapp",
+  "artifactId": "webapp-project",
+  "version": "1.0-SNAPSHOT",
+  "description": "webapp",
+  "labels" : [ "foo", "bar" ],
+  "pattern": "From",
+  "endpointOptions" : [ "foo", "bar" ],
+  "endpointValues" : {
+    "foo" : "2"
+  }
+}
